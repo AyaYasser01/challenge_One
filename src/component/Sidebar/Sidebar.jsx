@@ -7,7 +7,8 @@ const Sidebar = () => {
   return (
     <div  style={{marginRight:"30%",
     border:"solid 5px pink",
-    textAlign:"center"}}>
+    textAlign:"center",
+    }}>
       <Feature/>
       <Feature/>
       <Feature/>

@@ -8,7 +8,7 @@ const Feature = () => {
       <button style={{background:"pink",border:"none",color:"white",padding:"10px",
       margin:"3px",
       borderRadius:"20%",
-      fontSize:"23px"
+      fontSize:"10px"
 
       }}>Tag Button</button>
     </div>
