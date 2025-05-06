@@ -7,7 +7,9 @@ const Post = () => {
     <div style={{padding:"10px",
     border:"solid 5px pink ",
     width:"50%",
-    marginBottom:"5px"}
+    marginLeft:"30%",
+    marginBottom:"5px",
+    textAlign:"center"}
     }>
       <h2 >this is the post Title</h2>
       <hr/>
