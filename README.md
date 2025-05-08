@@ -16,10 +16,9 @@ It showcases a list of posts with tag buttons, styled using inline and box CSS i
 
 - ⚛️ React
 - 🎨 CSS (inline styles + class styles)
-- 🌐 Git & GitHub
 - 🚀 Vercel for deployment
 
---
+---
 ## 🛠️ Getting Started
 
 To run the project locally, follow these steps:
